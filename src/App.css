@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+}
+
+h1{
+  color: #fff;
+  margin-bottom: 0.3rem;
+  font-size: 2rem;
+  font-family: 'Rancho';
+  letter-spacing: 0.12rem;
+}
+
+h3 {
+  color: #fff;
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+}
+
+.TodoWrapper {
+  width: 50vw;
+  background: #25262d;
+  margin-top: 5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.TodoForm {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.todo-input {
+  outline: none;
+  background: none;
+  border: 1px solid #40cde8;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 80%;
+  color: white;
+}
+
+.todo-input::placeholder {
+  color: #ffffff4d;
+}
+
+.todo-btn {
+  background: #40cde8;
+  color: #080b1c;
+  font-weight: bold;
+  border: none;
+  padding: 0.55rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  
+}
+
+.Todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #33b2cb;
+  color: #25262d;
+  padding: 0.75rem 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.notTodo{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  color: #25262d;
+  padding: 0.75rem 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+
+}
+
+.not{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.TodoIcon{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* .fa-trash {
+  margin-left: 0.75rem;
+} */
+
+.completed {
+  padding-left: 10px;
+  padding-right: 10px;
+  overflow: hidden;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  color: #40414a;
+  text-decoration: line-through;
+}
+
+
+@media screen and (max-width: 425px)  {
+
+
+
+  .TodoWrapper{
+    width: 80vw;
+  }
+
+  h1{
+  
+    font-size: 1.2rem;
+  
+  }
+  
+  h3 {
+    
+    font-size: 0.7rem;
+  }
+
+}
+
+@media screen and (max-width: 768px)  {
+
+  body{
+    background-color: whitesmoke;
+    background-image: none;
+  }
+}

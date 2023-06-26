@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TaskPlaner
+The Todo Website is a straightforward and user-friendly web tool made to assist users in task management and maintaining organisation. Users can simply track their progress and prioritise their activities because of its user-friendly interface for adding, updating, and deleting to-do items.
 
 ## Available Scripts
 

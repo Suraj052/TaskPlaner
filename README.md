@@ -20,6 +20,7 @@ The Todo Website is a simple and intuitive web application designed to help user
 The website is currently hosted on Vercel, a cloud platform for static sites and serverless functions. This allows you to access the Todo website easily and conveniently.
 
 
+  
+[Click here](https://suraj052-task-planer.vercel.app/) to explore and organize your tasks effectively with this simple and intuitive Todo website !  
 
-Feel free to explore and organize your tasks effectively with this simple and intuitive Todo website!
-[Click here](https://suraj052-task-planer.vercel.app/)
+

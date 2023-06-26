@@ -3,7 +3,7 @@ The Todo Website is a simple and intuitive web application designed to help user
 
 ## Features
 
-*Add: You can easily add new tasks to your Todo list. Simply enter the task details and click the "Add" button.
+-Add: You can easily add new tasks to your Todo list. Simply enter the task details and click the "Add" button.
 
 ### `npm start`
 

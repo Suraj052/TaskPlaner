@@ -1,7 +1,7 @@
 # TaskPlaner
-The Todo Website is a straightforward and user-friendly web tool made to assist users in task management and maintaining organisation. Users can simply track their progress and prioritise their activities because of its user-friendly interface for adding, updating, and deleting to-do items.
+The Todo Website is a simple and intuitive web application designed to help users manage their tasks and stay organised. It provides a user-friendly interface for creating, editing, and organising to-do items, allowing users to easily track their progress and prioritise their tasks.
 
-## Available Scripts
+## Features
 
 In the project directory, you can run:
 

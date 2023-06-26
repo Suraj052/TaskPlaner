@@ -9,13 +9,13 @@ The Todo Website is a simple and intuitive web application designed to help user
 - Mark as Completed: Once you finish a task, you can mark it as completed. This helps you keep track of your progress.
 - Local Storage: The website utilizes local storage to store your Todo list data. This ensures that your data remains persistent even if you refresh the page or close the browser.
 
-## Hosting
+## Tech Stack 
 
 - HTML: Used for structuring the web pages and defining the content.
 - CSS: Employed for styling and designing the user interface to enhance the visual appeal.
 - ReactJs: A JavaScript library used for building the interactive components and managing the application state efficiently.
 
-## Tech Stack
+## Hosting
 
 The website is currently hosted on Vercel, a cloud platform for static sites and serverless functions. This allows you to access the Todo website easily and conveniently.
 
@@ -24,3 +24,6 @@ The website is currently hosted on Vercel, a cloud platform for static sites and
 [Click here](https://suraj052-task-planer.vercel.app/) to explore and organize your tasks effectively with this simple and intuitive Todo website !  
 
 
+
+
+![image](https://github.com/Suraj052/TaskPlaner/assets/78478151/8d56c4bf-72b4-4a51-b874-cc119aaf2188)

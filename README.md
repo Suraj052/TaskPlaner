@@ -3,7 +3,11 @@ The Todo Website is a simple and intuitive web application designed to help user
 
 ## Features
 
-- Add: You can easily add new tasks to your Todo list. Simply enter the task details and click the "Add" button.
+- Add: You can easily add new tasks to your Todo list. Simply enter the task details and click the "Add Task" button.
+- Delete: If you no longer need a task, you can delete it from your list by clicking the delete icon associated with that task.
+- Update: You have the flexibility to update the details of any task. Click on the edit icon of the task you want to modify, make the necessary changes, and click the "Update Task" button.
+- Mark as Completed: Once you finish a task, you can mark it as completed. This helps you keep track of your progress.
+- Local Storage: The website utilizes local storage to store your Todo list data. This ensures that your data remains persistent even if you refresh the page or close the browser.
 
 ### `npm start`
 
